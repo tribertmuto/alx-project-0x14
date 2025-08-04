@@ -113,4 +113,4 @@ const Movies: React.FC<MProps> = () => {
 }
 
 
-export default Movies; 
+export default Movies;

@@ -12,4 +12,4 @@ const Layout: React.FC<ComponentProps> = ({ children }) => {
   )
 }
 
-export default Layout; 
+export default Layout;
